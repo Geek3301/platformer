@@ -1,0 +1,29 @@
+﻿{
+	"version": 1725295006,
+	"fileList": [
+		"data.js",
+		"c2runtime.js",
+		"jquery-3.4.1.min.js",
+		"offlineClient.js",
+		"images/bojenka.png",
+		"images/ia_tvoi_pol-sheet0.png",
+		"images/ia_tvoi_pol-sheet1.png",
+		"images/ia_tvoi_pol-sheet2.png",
+		"images/bratisha-sheet0.png",
+		"images/bratisha-sheet1.png",
+		"images/tupoi_korobka-sheet0.png",
+		"images/ylitka_ulitayet-sheet0.png",
+		"images/ylitka_ulitayet-sheet1.png",
+		"images/ylitka_ulitayet-sheet2.png",
+		"images/prugai_ia_skazal-sheet0.png",
+		"images/prugai_ia_skazal-sheet1.png",
+		"images/ti_ne_proidesh-sheet0.png",
+		"images/yra-sheet0.png",
+		"icon-16.png",
+		"icon-32.png",
+		"icon-114.png",
+		"icon-128.png",
+		"icon-256.png",
+		"loading-logo.png"
+	]
+}
